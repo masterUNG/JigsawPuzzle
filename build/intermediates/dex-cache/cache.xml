@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/masterUNG/Downloads/JigsawPuzzle-master/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_c6c5387b6413c21c5d57b72eca33a073b7380282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/Downloads/JigsawPuzzle-master/app/libs/GoogleAdMobAdsSdk-6.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e6b52dcd6402380542cb37557bd04e06e6d7e47d">
+        <dex dex="/Users/masterUNG/Downloads/JigsawPuzzle-master/app/build/intermediates/pre-dexed/debug/GoogleAdMobAdsSdk-6.0.1_72d3b6312132f1ae23813ae7495e568cfbe9558d.jar" />
+    </item>
+
+</items>
