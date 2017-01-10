@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/build/intermediates/res/merged/debug/layout-small-v4/main.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/src/main/res/layout-small/main.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/build/intermediates/res/merged/debug/layout-small-v4/fisrt_screen_activity.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/JigsawPuzzle/app/src/main/res/layout-small/fisrt_screen_activity.xml"
+    },
+    {
         "merged": "/Users/masterUNG/Downloads/JigsawPuzzle-master/app/build/intermediates/res/merged/debug/layout-small-v4/fisrt_screen_activity.xml",
         "source": "/Users/masterUNG/Downloads/JigsawPuzzle-master/app/src/main/res/layout-small/fisrt_screen_activity.xml"
     },
